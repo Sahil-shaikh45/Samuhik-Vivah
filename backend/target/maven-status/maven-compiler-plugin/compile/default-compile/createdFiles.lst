@@ -1,0 +1,17 @@
+com\massmarriage\portal\repository\CoupleProfileRepository.class
+com\massmarriage\portal\dto\RegistrationRequest.class
+com\massmarriage\portal\entity\CoupleProfile.class
+com\massmarriage\portal\entity\Event.class
+com\massmarriage\portal\controller\AdminController.class
+com\massmarriage\portal\dto\LoginRequest.class
+com\massmarriage\portal\dto\UserResponse.class
+com\massmarriage\portal\entity\Role.class
+com\massmarriage\portal\service\UserService.class
+com\massmarriage\portal\controller\AuthController.class
+com\massmarriage\portal\entity\Venue.class
+com\massmarriage\portal\config\DataLoader.class
+com\massmarriage\portal\config\SecurityConfig.class
+com\massmarriage\portal\PortalApplication.class
+com\massmarriage\portal\repository\UserRepository.class
+com\massmarriage\portal\entity\Document.class
+com\massmarriage\portal\entity\User.class
